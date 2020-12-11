@@ -7,5 +7,6 @@ public class Main {
         w1.kos(85);
         
     }
+    //Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
     
 }
